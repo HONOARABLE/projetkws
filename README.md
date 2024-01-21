@@ -6,4 +6,4 @@ echo "#My projet Readme">> README.md
 git add README.md
 git remote -v
 git commit -m "Initial commit"
-git push -u origin master
+git push -u origin main
